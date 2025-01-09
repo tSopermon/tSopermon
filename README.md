@@ -20,7 +20,7 @@ Welcome to my GitHub profile! Here's a little bit about me:
 
 ## 📫 How to Reach Me
 - Email: [nikos.tsopanidis74@gmail.com](mailto:nikos.tsopanidis74@gmail.com)
-- LinkedIn: [Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nikolaos-tsopanidis/))
+- LinkedIn: [/in/nikolaos-tsopanidis](https://www.linkedin.com/in/nikolaos-tsopanidis/))
 
 ## 😄 Pronouns
 - He/Him or your preferred pronouns
