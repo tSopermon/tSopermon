@@ -9,9 +9,9 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - 3D Modeling and Processing 🌐
 
 ## 🌱 Currently Learning
-- Advanced Computer Graphics and Photogrammetry
+- Advanced Computer Graphics
 - Deep Learning for Computer Vision 📸
-- JavaScript for Algorithm Implementation 🖥️
+- WebGL & JavaScript for Algorithm Implementation 🖥️
 
 ## 💞️ Looking to Collaborate On
 - Open-source AI and ML projects
